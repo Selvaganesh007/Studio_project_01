@@ -98,7 +98,7 @@ section {
 
 /* price  */
 #price{
-    background-color: #cfebd6;
+    background-color: lightgrey;
 }
 #price h1{
     font-size: 50px;
@@ -106,25 +106,25 @@ section {
     letter-spacing: 2px;
 }
 #price img{
-    /* width: 250px;
-    height: 250px; */
+    width: 200px;
+    height: 200px;
 }
 .card{
-    /* width: 250px;
-    height: 300px; */
-    background: #cfebd6 !important;
+    width: 300px;
+    height: 350px;
+    background: lightgrey !important;
     border: none !important;
     box-shadow: 15px 20px 20px rgba(0, 0, 0, .3),
     inset 4px 4px 10px #cfebd6;
     border-radius: 20px !important;
     overflow: hidden;
-    /* justify-content: center; */
-    /* align-items: center; */
+    justify-content: center; 
+    align-items: center;
     margin: 20px 60px;
 }
 .card:hover{
-    box-shadow: 15px 20px 20px rgba(0, 255, 255, 0.302),
-    inset 4px 4px 10px rgb(134, 241, 255);
+    box-shadow: 15px 20px 20px #ff00004d,
+    inset 4px 4px 10px #bdff07;
     transition: .2s;
 }
 
