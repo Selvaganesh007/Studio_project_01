@@ -130,12 +130,12 @@ section {
     transition: .2s;
 }
 
-/* contact  */
+/* contact  
 
 #contact img{
     height: 100%;
 }
-
+*/
 #contact .box{
     width: 100% !important;
 }
@@ -176,3 +176,4 @@ footer p{
 footer h5{
     color: aqua;
 }
+/* Super */
