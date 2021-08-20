@@ -68,7 +68,7 @@ section {
     color:azure;
     padding-left: 15px;
 }
- #home .input-group{
+/* #home .input-group{
     width: 40%;
     height: 45px;
     display: flex; */
@@ -99,13 +99,14 @@ section {
 /* price  */
 #price{
     background-color: lightgrey;
-#price . container {
-    Padding-right: 15px;
 }
 #price h1{
     font-size: 50px;
     font-weight: 700;
     letter-spacing: 2px;
+}
+#price . container {
+    Padding-right: 15px;
 }
 #price img{
     width: 200px;
@@ -130,12 +131,12 @@ section {
     transition: .2s;
 }
 
-/* contact  
-
+/* contact  */
+/* 
 #contact img{
     height: 100%;
-}
-*/
+} */
+
 #contact .box{
     width: 100% !important;
 }
@@ -163,7 +164,26 @@ input, textarea{
     text-align: center;
 }
 
- 
+  /* footer  */
+/* .foot{
+    max-width: 1170px;
+    margin: auto;
+}
+.footer{
+    background-color: black;
+    padding: 70px 0;
+}
+ul{
+    list-style: none;
+}
+.footer-col{
+    width: 25%;
+    padding: 0 15px;
+}
+.footrow{
+    display: flex !important;
+    flex-wrap: wrap !important;
+} */
 
 footer{
     background-color: #000000 !important;
@@ -176,4 +196,3 @@ footer p{
 footer h5{
     color: aqua;
 }
-/* Super */
