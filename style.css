@@ -105,16 +105,18 @@ section {
     font-weight: 700;
     letter-spacing: 2px;
 }
-#price . container {
-    Padding-right: 15px;
-}
+/* #price .pri{
+    justify-content: center !important; 
+    align-items: center !important;
+    padding-right: 30px !important;
+} */
 #price img{
-    width: 200px;
-    height: 200px;
+    /* width: 150px;
+    height: 200px; */
 }
 .card{
-    width: 300px;
-    height: 350px;
+    /* width: 200px;
+    height: 350px; */
     background: lightgrey !important;
     border: none !important;
     box-shadow: 15px 20px 20px rgba(0, 0, 0, .3),
